@@ -1,0 +1,132 @@
+body{
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+  font-family: sans-serif;
+  background-color: rgb(255, 255, 255);
+}
+
+
+
+
+
+
+.email{
+    font-display:none;
+    font-style: none;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    padding: 0; 
+    text-align:center;
+   margin-top:  450px; 
+   align-items: center;
+   margin-right: 20px;
+   
+    
+}
+.email input{
+   
+    width: 20px;
+    border-radius: 5px;
+    width: 100px;
+    background:transparent;
+    color: rgb(0, 0, 0);
+    border-color: rgb(104, 122, 111);
+    align-items: center;
+    margin-top:40px;
+    padding-bottom:10px;
+
+      }
+
+
+  
+
+.anexovideo{margin-top:10px;  text-align: center;}
+.anexovideo iframe{width: 200px; }
+
+.texto {
+      text-align: center;
+       margin-top: 20px;
+       color: rgb(17, 18, 18);
+       font-size: 30px;
+}
+
+.texto p{
+   padding-right: 0px;
+   padding-bottom: 5px;
+   text-align: center;
+}
+.acoes a{
+  color:rgb(180, 197, 213);
+  text-decoration: none;
+  background:rgb(73, 63, 63);
+  border-radius: 3px;
+  border-color: rgb(91, 86, 86);
+  border-style: ridge;
+  border-spacing: 20px;
+  font-size: 15px;
+   padding: 5px;
+}
+.acoes{
+  text-align: center;
+}
+.navbar {
+  background-color: rgb(45, 43, 43);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+
+  
+
+}
+nav {
+  background-color: rgb(81, 74, 74);
+  
+  color: rgb(197, 216, 223);
+} 
+.navbar p{
+   content: "\268C";
+   background:transparent;
+   color: rgb(186, 224, 215);
+}
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and   (min-width:1000px) {
+
+  .anexovideo{margin-top:10px;  text-align: center;}
+.anexovideo iframe{width: 560px;}
+.navbar {color:black}
+.navbar p{ color:transparent}
+ 
+}
+
+  
+.images{
+  
+  margin-bottom:0;
+  margin-right: 200px;
+  margin-top: 20px;
+  width: 20px;
+}
+
+
+
+  
+
+
+  
